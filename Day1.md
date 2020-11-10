@@ -12,3 +12,4 @@ First Header | Second Header
 ------------    -------------
 Oh it turns out I can | Make tables too
 
+*Tables will take more time to understand. Technical issues*

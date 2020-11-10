@@ -1,4 +1,5 @@
-# Hi my name is Alex?
+# Hi my name is Alex
 
-# Hopefully this fixes it
-[day 1 reading](Day1.md)
+# This journel is oranized by each day indicated with the links below.
+
+[Day 1 Learning github](Day1.md)

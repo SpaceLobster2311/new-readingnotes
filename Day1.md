@@ -1,3 +1,6 @@
-# Day one reading notes
+# Learning Markdown
 
-blah blah
+these are the things I learned in markdown
+
+-its pretty cool
+-kinda dope?

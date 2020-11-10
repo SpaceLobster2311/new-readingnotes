@@ -6,4 +6,4 @@ It is used for general text within Github and other programs
 
 This link will be posted in Canvas for Lab 1. 
 
-More practice is required to full understand what I'm doing
+More practice is required to fully understand what I'm doing

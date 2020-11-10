@@ -1,6 +1,9 @@
 # Learning Markdown
 
-these are the things I learned in markdown
+Mark down is a simplified text language using basic # and *
 
--its pretty cool
--kinda dope?
+It is used for general text within Github and other programs
+
+This link will be posted in Canvas for Lab 1. 
+
+More practice is required to full understand what I'm doing

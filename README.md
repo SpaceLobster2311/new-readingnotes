@@ -4,10 +4,10 @@ Hello, my name is Alex.
 
 *some stuff about me*
 
-I'm a UW Grad in Law, Economics, and Public Policy
-I was Captain of the Debate team at UW Bothell. 
-I have 2 cats
-I am going to Code Fellows to get the ability to create my ideas
+* I'm a UW Grad in Law, Economics, and Public Policy
+* I was Captain of the Debate team at UW Bothell. 
+* I have 2 cats
+* I am going to Code Fellows to get the ability to create my ideas
 
 The growth mindset embraces challenge and welcomes change.  Hard work and effort will overcome obstacles.  Criticism and the Success of others should be used as inspiration to improve. 
 

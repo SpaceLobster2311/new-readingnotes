@@ -10,6 +10,7 @@ A text editor allows you to write and manage text.  It is a very important tool 
 It's important features are..
 
 * code completion
+
 (Display possible suggestions based on what you type)
 * syntax highlighting
 * variety of themes

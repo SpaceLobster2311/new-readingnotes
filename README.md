@@ -15,7 +15,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 
 1. [Day 1](Day1.md)
 2. [Day 2](CodersComputer.md)
-3. [Day 3]
+3. [Day 3](GitStarted.md)
 4. [Day 4]
 5. [Day 5]
 6. [Day 6]

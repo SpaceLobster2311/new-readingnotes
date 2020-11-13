@@ -62,7 +62,7 @@ Git + Github = Awesome
 ### Repositories 
 AKA repos AKA folders
 
-#####What is a repository?
+##### What is a repository?
 * A collection of files you told Git to pay attention to
   * Usually its 1 project 1 repository. 
 * Repositories can live on teh computer or Github

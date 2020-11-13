@@ -105,7 +105,35 @@ Push. The command is below
 
 Pushing will send all item from main branch on pc to main on github. 
 
+### Class Cheat Sheet
 
+cd = Change Directory
+
+ls = List all the files in the directory
+
+pwd = Present working directory, where you are currently at
+
+cp {where the file is located} {where you are moving it to} = copy/clone a file to a new location
+
+mv {where the file is located} {where you are moving it to} = move the file to a new location
+
+rm = remove a file
+
+rm -r = remove a directory (recursively)
+
+mkdir = create a new directory
+
+touch = create a new file (don't forget the extension!)
+
+git clone {url} = clone a repo from GitHub to your local machine
+
+git status = check if there are any red/untracked changes to your repository (green means it's being tracked!)
+
+git add . = add all the files that need to be tracked 
+
+git commit -m "enter message here" = add a caption/message to your commit/snapshot
+
+git push origin main = send the code up from your local machine to the cloud/GitHub
    
   
 ### Command line demo results:

@@ -1,0 +1,13 @@
+# CSS
+
+Css stands for **Cascading Style Sheets**
+
+## Code tips
+* D.R.Y
+  * Don't 
+  * Repeat
+  * Yourself 
+
+Avoid inline styles
+Avoid if can Head of html styles
+Let 

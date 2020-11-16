@@ -23,3 +23,23 @@ insde *declaration* {
 
 CSS properties affect how elements are displayed. 
 
+The <link> element tells html where to find the css rules
+
+href specifies a path to the css file
+The type should always be type="text/css"
+
+*example* <link href ="css/styles.css" type="text/css"
+
+* Css selectors on page 238 of text. 
+
+## Color 
+*Rgb values
+* hex codes
+* color names
+
+It is important to have enough contrast so that the text is legible
+
+Can set opacity
+* opacity: 0.5;
+*sets opacity to 50%*
+

@@ -10,4 +10,16 @@ Css stands for **Cascading Style Sheets**
 
 Avoid inline styles
 Avoid if can Head of html styles
-Let 
+Always try and tdo external CSS
+
+## CSS
+Css allows you to create rules that control the way individual boxes and thier content are displayed on a web page. 
+
+CSS assocaites style with html elements
+
+*Selector* **P** *declaration* {} 
+insde *declaration* {
+**property: **Value**
+
+CSS properties affect how elements are displayed. 
+

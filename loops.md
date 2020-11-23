@@ -13,4 +13,11 @@
  * || is a logical or
  * ! is a logical not
  
+ ## Loops
  
+ * For loops
+ for(i=1; i<10; i++){
+ }
+
+* While loops
+While(){}

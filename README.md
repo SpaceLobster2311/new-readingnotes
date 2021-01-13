@@ -26,7 +26,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 # Code Fellows 201
 
 1. [Day_1]
-2. [Day_2]
+2. [Day_2](class-02.md)
 3. [Day_3]
 4. [Day_4]
 5. [Day_5]

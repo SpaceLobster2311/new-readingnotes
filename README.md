@@ -34,7 +34,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 7. [Day_7](02-Day7.md)
 8. [Day_8](02-Day8.md)
 9. [Day_9]
-10. [Day_10]
+10. [Day_10](02-Day10.md)
 11. [Day_11]
 12. [Day_12]
 13. [Day_13]

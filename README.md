@@ -11,7 +11,7 @@ Hello, my name is Alex.
 
 The growth mindset embraces challenge and welcomes change.  Hard work and effort will overcome obstacles.  Criticism and the Success of others should be used as inspiration to improve. 
 
-# Code Fellows 102.
+# Code Fellows 102 - Intro to Software Development
 
 1. [Day 1](Day1.md)
 2. [Day 2](CodersComputer.md)
@@ -23,7 +23,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 8. [Day 8](loops.md)
 9. [Day 9]
 
-# Code Fellows 201
+# Code Fellows 201 - Foundation of Software Development
 
 1. [Day_1]
 2. [Day_2](class-02.md)
@@ -40,3 +40,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 13. [Day_13]
 14. [Day_14]
 15. [Day_15]
+
+# Code Fellows 301 - Intermediate Software Development
+
+# Code Fellows 401 - Advanced Software Development

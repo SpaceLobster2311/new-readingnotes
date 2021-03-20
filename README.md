@@ -21,7 +21,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 6. [Day 6](javascript.md)
 7. [Day 7]
 8. [Day 8](loops.md)
-9. [Day 9]
+9. 
 
 # Code Fellows 201 - Foundation of Software Development
 
@@ -35,11 +35,7 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 8. [Day_8](02-Day8.md)
 9. [Day_9]
 10. [Day_10](02-Day10.md)
-11. [Day_11]
-12. [Day_12]
-13. [Day_13]
-14. [Day_14]
-15. [Day_15]
+
 
 # Code Fellows 301 - Intermediate Software Development
 

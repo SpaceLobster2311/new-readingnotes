@@ -38,5 +38,6 @@ The growth mindset embraces challenge and welcomes change.  Hard work and effort
 
 
 # Code Fellows 301 - Intermediate Software Development
+1. [ES6 prework](ES6.md)
 
 # Code Fellows 401 - Advanced Software Development
